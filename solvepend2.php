@@ -8,7 +8,7 @@ $zero="0";
 
 $servername='localhost';
 $username='root';
-$password='Shri*111';
+$password='';
 $dbname='project';
 
 $conn=mysqli_connect($servername,$username,$password,$dbname);

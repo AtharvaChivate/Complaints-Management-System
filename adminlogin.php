@@ -10,6 +10,4 @@ else
 {
 	readfile('adminlogin2.html');
 }
-
-
 ?>
