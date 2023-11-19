@@ -16,7 +16,7 @@ $comp=$_POST['comp'];
 
 $servername='localhost';
 $username='root';
-$password='Shri*111';
+$password='';
 $dbname='project';
 
 $conn=mysqli_connect($servername,$username,$password,$dbname);

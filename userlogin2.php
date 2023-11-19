@@ -7,7 +7,7 @@ $pass=$_POST['pass'];
 
 $servername='localhost';
 $username='root';
-$password='Shri*111';
+$password='';
 $dbname='project';
 
 $conn=mysqli_connect($servername,$username,$password,$dbname);
@@ -34,7 +34,7 @@ if($conn)
 	{
 		$servername='localhost';
 		$username='root';
-		$password='Shri*111';
+		$password='';
 		$dbname='project';
 
 		$con=mysqli_connect($servername,$username,$password,$dbname);
